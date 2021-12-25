@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Card-Capital</string>
+    <string name="first_slide"> Choose Your Products</string>
+    <string name="second_slide"> Speedy Delivery</string>
+    <string name="third_slide">Excellent Service</string>
+
+    <string name="description">Lorem</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
